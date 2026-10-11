@@ -1,9 +1,9 @@
 # Shell:B Voices
 
-[![Validate](https://github.com/EveAeternam/Shell-B-Voices/actions/workflows/validate.yml/badge.svg)](https://github.com/EveAeternam/Shell-B-Voices/actions/workflows/validate.yml) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Validate](https://github.com/ShellB-App/Shell-B-Voices/actions/workflows/validate.yml/badge.svg)](https://github.com/ShellB-App/Shell-B-Voices/actions/workflows/validate.yml) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Community voices for [Shell:B](https://github.com/EveAeternam/Shell-B), the local-first AI workspace.
-Part of the family with [Shell-B-Themes](https://github.com/EveAeternam/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/EveAeternam/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/EveAeternam/Shell-B-Agents).
+Community voices for [Shell:B](https://github.com/ShellB-App/Shell-B), the local-first AI workspace.
+Part of the family with [Shell-B-Themes](https://github.com/ShellB-App/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/ShellB-App/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/ShellB-App/Shell-B-Agents).
 
 A Shell:B voice is **a description, not a recording**. HERMES, Shell:B's speech service, designs voices from text with
 Qwen3-TTS: you describe a speaker (age, accent, pitch, pace, mood), it makes a reference clip, and from then on that
@@ -70,7 +70,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the pull request checklist.
 
 ## Other collections
 
-Shell:B installs from the whole family: [Shell-B-Themes](https://github.com/EveAeternam/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/EveAeternam/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/EveAeternam/Shell-B-Agents) work the same way, with a validator, CI and a one-screen checklist each. Found a bug in the app itself? That goes to [Shell-B issues](https://github.com/EveAeternam/Shell-B/issues); questions and show-and-tell to [Discussions](https://github.com/EveAeternam/Shell-B/discussions).
+Shell:B installs from the whole family: [Shell-B-Themes](https://github.com/ShellB-App/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/ShellB-App/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/ShellB-App/Shell-B-Agents) work the same way, with a validator, CI and a one-screen checklist each. Found a bug in the app itself? That goes to [Shell-B issues](https://github.com/ShellB-App/Shell-B/issues); questions and show-and-tell to [Discussions](https://github.com/ShellB-App/Shell-B/discussions).
 
 ## License
 
