@@ -1,0 +1,12 @@
+{
+ "name": "Marrow",
+ "label": "Marrow · gravelly storyteller",
+ "description": "An old man with a deep, gravelly, slightly worn voice, as if from years of talking by fires. Slow, deliberate, with long pauses, a dry humour, and a tenderness that shows up when he least expects it. Built for bedtime stories, legends and tabletop games.",
+ "style": "Slow and deliberate, with dramatic pauses. Let the ends of sentences fall.",
+ "language": "en",
+ "refText": "There was a door at the end of the corridor that nobody opened. Not because it was locked, you understand. Because of what had happened the last time somebody did.",
+ "tags": ["male", "deep", "storytelling", "games"],
+ "author": "Shell:B",
+ "license": "CC0-1.0",
+ "version": "1.0"
+}

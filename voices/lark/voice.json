@@ -1,0 +1,12 @@
+{
+ "name": "Lark",
+ "label": "Lark · bright British female",
+ "description": "A young British woman, early twenties, with a light, quick, bright voice and a southern English accent that is friendly rather than posh. Energetic without being breathless, laughs easily, lifts at the end of a good sentence.",
+ "style": "Upbeat and quick, with a smile. Lean into questions.",
+ "language": "en-GB",
+ "refText": "Right, so here's the plan: we get the early train, grab coffee at the station, and we're on the hill before anyone else is awake. Honestly, you'll thank me when you see the view.",
+ "tags": ["female", "bright", "british", "assistant"],
+ "author": "Shell:B",
+ "license": "CC0-1.0",
+ "version": "1.0"
+}

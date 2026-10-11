@@ -1,0 +1,12 @@
+{
+ "name": "Quill",
+ "label": "Quill · crisp newsreader",
+ "description": "A woman in her forties with a crisp, clear, neutral American newsroom voice: precise consonants, measured pace, authority without coldness. Reads numbers and names cleanly. The voice for a morning brief or a long document.",
+ "style": "Clear and measured, like a news bulletin. Neutral tone, no drama.",
+ "language": "en",
+ "refText": "Good morning. Here is what matters today: three meetings, two of them moved, one deadline at five. Rain is expected after lunch, so the walk you planned is better taken this morning.",
+ "tags": ["female", "clear", "news", "briefing"],
+ "author": "Shell:B",
+ "license": "CC0-1.0",
+ "version": "1.0"
+}

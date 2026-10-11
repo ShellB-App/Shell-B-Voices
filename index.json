@@ -1,0 +1,120 @@
+{
+ "format": 1,
+ "kind": "voice",
+ "items": [
+  {
+   "id": "harbor",
+   "name": "Harbor",
+   "label": "Harbor · low, calm male",
+   "blurb": "A man in his fifties with a low, even voice and a slight gravel at the bottom of it. Unhurried, warm, the kind of voice that reads the shipping forecast: every word placed, nothing rushed, a small smile audible now and then.",
+   "style": "Calm and unhurried. Pause at commas. Never raise the voice.",
+   "language": "en",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "male",
+    "calm",
+    "narration",
+    "low"
+   ],
+   "path": "voices/harbor/voice.json",
+   "sample": null
+  },
+  {
+   "id": "juniper",
+   "name": "Juniper",
+   "label": "Juniper · warm Scottish female",
+   "blurb": "A Scottish woman in her thirties, a soft Edinburgh accent, warm and a little wry. Mid-range, relaxed, rolls the r's lightly. Like a friend who tells you the truth kindly. Good for conversation and for reading recipes, letters and journals aloud.",
+   "style": "Warm and conversational, lightly amused.",
+   "language": "en-GB",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "female",
+    "scottish",
+    "warm",
+    "conversation"
+   ],
+   "path": "voices/juniper/voice.json",
+   "sample": null
+  },
+  {
+   "id": "lark",
+   "name": "Lark",
+   "label": "Lark · bright British female",
+   "blurb": "A young British woman, early twenties, with a light, quick, bright voice and a southern English accent that is friendly rather than posh. Energetic without being breathless, laughs easily, lifts at the end of a good sentence.",
+   "style": "Upbeat and quick, with a smile. Lean into questions.",
+   "language": "en-GB",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "female",
+    "bright",
+    "british",
+    "assistant"
+   ],
+   "path": "voices/lark/voice.json",
+   "sample": null
+  },
+  {
+   "id": "marrow",
+   "name": "Marrow",
+   "label": "Marrow · gravelly storyteller",
+   "blurb": "An old man with a deep, gravelly, slightly worn voice, as if from years of talking by fires. Slow, deliberate, with long pauses, a dry humour, and a tenderness that shows up when he least expects it. Built for bedtime stories, legends and tabletop games.",
+   "style": "Slow and deliberate, with dramatic pauses. Let the ends of sentences fall.",
+   "language": "en",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "male",
+    "deep",
+    "storytelling",
+    "games"
+   ],
+   "path": "voices/marrow/voice.json",
+   "sample": null
+  },
+  {
+   "id": "pixel",
+   "name": "Pixel",
+   "label": "Pixel · cheerful little robot",
+   "blurb": "A small, cheerful robot assistant: a slightly synthetic, high-pitched but pleasant voice, very clear, with a bouncy rhythm and obvious enthusiasm for small tasks. Not grating; think helpful droid rather than cartoon. Suits timers, reminders and games for children.",
+   "style": "Chipper and eager, clipped and precise. Slightly robotic cadence.",
+   "language": "en",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "robot",
+    "cheerful",
+    "kids",
+    "assistant"
+   ],
+   "path": "voices/pixel/voice.json",
+   "sample": null
+  },
+  {
+   "id": "quill",
+   "name": "Quill",
+   "label": "Quill · crisp newsreader",
+   "blurb": "A woman in her forties with a crisp, clear, neutral American newsroom voice: precise consonants, measured pace, authority without coldness. Reads numbers and names cleanly. The voice for a morning brief or a long document.",
+   "style": "Clear and measured, like a news bulletin. Neutral tone, no drama.",
+   "language": "en",
+   "author": "Shell:B",
+   "license": "CC0-1.0",
+   "version": "1.0",
+   "tags": [
+    "female",
+    "clear",
+    "news",
+    "briefing"
+   ],
+   "path": "voices/quill/voice.json",
+   "sample": null
+  }
+ ]
+}

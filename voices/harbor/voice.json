@@ -1,0 +1,12 @@
+{
+ "name": "Harbor",
+ "label": "Harbor · low, calm male",
+ "description": "A man in his fifties with a low, even voice and a slight gravel at the bottom of it. Unhurried, warm, the kind of voice that reads the shipping forecast: every word placed, nothing rushed, a small smile audible now and then.",
+ "style": "Calm and unhurried. Pause at commas. Never raise the voice.",
+ "language": "en",
+ "refText": "The tide turns just after midnight tonight. If you're heading out, take the long way round the point; the short cut dries at low water and you'll be waiting for the sea to come back.",
+ "tags": ["male", "calm", "narration", "low"],
+ "author": "Shell:B",
+ "license": "CC0-1.0",
+ "version": "1.0"
+}

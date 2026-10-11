@@ -1,0 +1,12 @@
+{
+ "name": "Juniper",
+ "label": "Juniper · warm Scottish female",
+ "description": "A Scottish woman in her thirties, a soft Edinburgh accent, warm and a little wry. Mid-range, relaxed, rolls the r's lightly. Like a friend who tells you the truth kindly. Good for conversation and for reading recipes, letters and journals aloud.",
+ "style": "Warm and conversational, lightly amused.",
+ "language": "en-GB",
+ "refText": "Och, it's not as bad as all that. Put the kettle on, sit yourself down, and tell me the whole thing from the start. We'll sort it out between us, we always do.",
+ "tags": ["female", "scottish", "warm", "conversation"],
+ "author": "Shell:B",
+ "license": "CC0-1.0",
+ "version": "1.0"
+}
